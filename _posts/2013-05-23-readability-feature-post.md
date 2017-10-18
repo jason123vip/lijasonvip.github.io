@@ -6,7 +6,7 @@ categories: [paragraph, feature photo]
 author: mike
 comments: true
 image:
-  feature: ![Alt text](img/avatar.jpg)
+  feature: avatar.jpg
   credit: Greg Rakozy
   creditlink: 
 ---
